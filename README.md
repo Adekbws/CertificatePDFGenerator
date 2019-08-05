@@ -1,6 +1,6 @@
-# React Server Side Rendering using ExpressJS with react-router - Example App
+# React Server Certificate Generator App
 
-PDF Certificate Generator React Redux Node
+PDF Certificate Generator Node React Redux 
 
 ## Installation
 
