@@ -1,0 +1,70 @@
+ @font-face{font-family:AbrahamLincoln;font-weight:normal;font-style:normal;
+    src:url('e147c8399f3a361d60242183c700cfbd.woff') format('woff') 
+    , url('612053dea782587d869bddca9df00687.woff2') format('woff2') ;
+  } @font-face{font-family:AirAmericana;font-weight:normal;font-style:normal;
+    src:url('0667c5655b2f40aca671ac00372477d6.woff') format('woff') 
+    , url('f507ba7ba2af028b06508fdd2610d635.woff2') format('woff2') ;
+  } @font-face{font-family:AlwaysInMyHeart;font-weight:normal;font-style:normal;
+    src:url('fec5e7e02be3d4c3c28e1f365351f989.woff') format('woff') 
+    , url('2c4364ea5a322d1100562d3e96572903.woff2') format('woff2') ;
+  } @font-face{font-family:Andriko;font-weight:normal;font-style:normal;
+    src:url('435a5692fc1fcf3009b2f2a02f097db8.woff') format('woff') 
+    , url('badfb93817c3ff2736efdd68a73382c4.woff2') format('woff2') ;
+  } @font-face{font-family:Aquatico-Regular;font-weight:normal;font-style:normal;
+    src:url('4f93dd1d20579589ebafa13f7b2fda6d.woff') format('woff') 
+    , url('6e2641f9ed215f979b0ffcf571d90ec8.woff2') format('woff2') ;
+  } @font-face{font-family:Arial-Bold;font-weight:normal;font-style:normal;
+    src:url('ccee17f3beb3e0c4726a2f2001de16fb.woff') format('woff') 
+    , url('76df27b97f5afdd943a902afb66ea93f.woff2') format('woff2') ;
+  } @font-face{font-family:Arial;font-weight:normal;font-style:normal;
+    src:url('3ff43810c708ac67d92d573100a42619.woff') format('woff') 
+    , url('ee049ea93c4a5b5b363edf5b0e9c65b1.woff2') format('woff2') ;
+  } @font-face{font-family:Blacklisted;font-weight:normal;font-style:normal;
+    src:url('72f8273e78d672f593b74cf92e0c50ef.woff') format('woff') 
+    , url('1c00b4ff3b35e93ad4dce441816aff95.woff2') format('woff2') ;
+  } @font-face{font-family:CampusRelief;font-weight:normal;font-style:normal;
+    src:url('e5d4b0ee57a8182d58df5dee9cb2eb5f.woff') format('woff') 
+    , url('fcb5ec3d8c8da7376e5ddbd68a6c45c7.woff2') format('woff2') ;
+  } @font-face{font-family:ChubGothic;font-weight:normal;font-style:normal;
+    src:url('138200ed3ea612ac01a949823e388cee.woff') format('woff') 
+    , url('a10f45e8abe3d1b6464e60a1c61d6a0b.woff2') format('woff2') ;
+  } @font-face{font-family:COUTURE-Bold;font-weight:normal;font-style:normal;
+    src:url('56f8931090faf5f90880f870c0bcb4a6.woff') format('woff') 
+    , url('a90a2b299ed70411903337fe4a776b42.woff2') format('woff2') ;
+  } @font-face{font-family:ElevatePERSONALUSEONLY;font-weight:normal;font-style:normal;
+    src:url('de08dbf33a7dadc38a19d3c0575cfe47.woff') format('woff') 
+    , url('8b4fddf6afa68d58521355589adcd638.woff2') format('woff2') ;
+  } @font-face{font-family:Haymaker;font-weight:normal;font-style:normal;
+    src:url('3bba35194914cfac56d51ab1ea586a17.woff') format('woff') 
+    , url('2219af7d1471abda330f8efec73af0dc.woff2') format('woff2') ;
+  } @font-face{font-family:HazeDarkDemo;font-weight:normal;font-style:normal;
+    src:url('bc4e94d0fe5fa4a6fd96548e0f8ebe67.woff') format('woff') 
+    , url('fc4254ede3dc4dc5ff131183068e62f4.woff2') format('woff2') ;
+  } @font-face{font-family:Karma-Regular;font-weight:normal;font-style:normal;
+    src:url('0921e8925a984259f69fa8cb87ac1bdf.woff') format('woff') 
+    , url('d27678883caa545179abee0402c22a29.woff2') format('woff2') ;
+  } @font-face{font-family:LeGrimoireduBonheur;font-weight:normal;font-style:normal;
+    src:url('75baac188ca511dbf22a8e8ab9395bc9.woff') format('woff') 
+    , url('b942ae67b898d39dabe30a9707ed39b4.woff2') format('woff2') ;
+  } @font-face{font-family:Mohave;font-weight:normal;font-style:normal;
+    src:url('552993262ee024d64a864983d0d248a8.woff') format('woff') 
+    , url('7d359ad852c704ac2f1111bfedd306b2.woff2') format('woff2') ;
+  } @font-face{font-family:Morracle;font-weight:normal;font-style:normal;
+    src:url('f7ecaa4aa95d58b214453e9cefa3db7a.woff') format('woff') 
+    , url('78cf1b004d39354b3655b078ad315faf.woff2') format('woff2') ;
+  } @font-face{font-family:NarniaBLL;font-weight:normal;font-style:normal;
+    src:url('fe1127920088acdc5eb3cc3b0c114a91.woff') format('woff') 
+    , url('f7d448044ba78fe866a0334833bcf7be.woff2') format('woff2') ;
+  } @font-face{font-family:Nickainley-Normal;font-weight:normal;font-style:normal;
+    src:url('83d162ac3a20b67e8e9e8d5efe8ad29d.woff') format('woff') 
+    , url('ece698e29bf793652cef463c58861736.woff2') format('woff2') ;
+  } @font-face{font-family:Roboto-Bold;font-weight:normal;font-style:normal;
+    src:url('08cb8f79715774f9a6285ee7db2919a3.woff') format('woff') 
+    , url('f3a02e2578bee50e620e515912278bc9.woff2') format('woff2') ;
+  } @font-face{font-family:Roboto-Regular;font-weight:normal;font-style:normal;
+    src:url('94dac78eee406a8c8f0406b69b85ac2b.woff') format('woff') 
+    , url('9feb0110b6dff9ee2b9ebd17f7a1aee6.woff2') format('woff2') ;
+  } @font-face{font-family:SheAlwaysWalkAloneDemo;font-weight:normal;font-style:normal;
+    src:url('b7c35a522e350acf2ebe1dfcca43d727.woff') format('woff') 
+    , url('dd753f99b4ae3ba73652063ce85740d8.woff2') format('woff2') ;
+  }

@@ -1,0 +1,3 @@
+C:\Users\Adek\Desktop\PDF generator React\react-ssr-router-example\obj\Debug\PdfCertGenerator.njsprojAssemblyReference.cache
+C:\Users\Adek\Desktop\PDF generator React\react-ssr-router-example\obj\Debug\PdfCertGenerator.njsproj.CoreCompileInputs.cache
+C:\Users\Adek\Desktop\PDF generator React\react-ssr-router-example\bin\Microsoft.NodejsTools.WebRole.dll
