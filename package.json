@@ -43,7 +43,7 @@
     "@progress/kendo-drawing": "^1.5.9",
     "@progress/kendo-react-pdf": "^2.7.1",
     "@tinymce/tinymce-react": "^3.2.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-css-modules-transform": "^1.6.2",
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^4.3.1",
